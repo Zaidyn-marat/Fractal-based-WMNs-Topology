@@ -15,6 +15,6 @@ Fractal topologies introduce spatial self-similarity into node placement, enabli
 - `figures/`: Visualizations of fractal networks.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zaidyn-marat/Fractal-based-WMNTopology/main/figures/logo.png" width="300" alt="Fractal WMN Logo">
+  <img src="https://raw.githubusercontent.com/Zaidyn-marat/Fractal-based-WMNs-Topology/main/figures/logo.png" width="300" alt="Fractal WMN Logo">
 </p>
 
