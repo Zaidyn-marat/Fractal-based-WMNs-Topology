@@ -13,3 +13,8 @@ Fractal topologies introduce spatial self-similarity into node placement, enabli
 - `src/`: Source code for generating topologies and analyzing performance.
 - `data/`: Example fractal point clouds.
 - `figures/`: Visualizations of fractal networks.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/878fd373-ba88-4d46-9652-b44dfa1f5f87" width="300" alt="Fractal WMN Logo">
+</p>
+
