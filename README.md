@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zaidyn-marat/Fractal-based-WMNs-Topology/main/figures/logo.png" width="300" alt="Fractal WMN Logo">
+</p>
+
 # Fractal-based Wireless Mesh Network Topology
 
 This repository provides tools to generate spatially embedded fractal topologies for Wireless Mesh Networks (WMNs), simulate network performance using NS-3, and analyze results including throughput, delay, jitter, and energy consumption.
@@ -14,7 +18,5 @@ Fractal topologies introduce spatial self-similarity into node placement, enabli
 - `data/`: Example fractal point clouds.
 - `figures/`: Visualizations of fractal networks.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Zaidyn-marat/Fractal-based-WMNs-Topology/main/figures/logo.png" width="300" alt="Fractal WMN Logo">
-</p>
+
 
