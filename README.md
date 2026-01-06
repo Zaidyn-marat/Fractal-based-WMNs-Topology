@@ -4,9 +4,7 @@
 
 # Fractal-based Wireless Mesh Network Topology
 
-
 This repository provides tools to generate spatially embedded fractal topologies for Wireless Mesh Networks (WMNs).
-
 
 ## 📌 Overview
 
@@ -14,11 +12,7 @@ Fractal topologies introduce spatial self-similarity into node placement, enabli
 
 [The role of fractal dimension in wireless mesh network performance](https://arxiv.org/pdf/2506.19366)
 
-## 📁 Repository Structure
 
-- `src/`: Source code for generating topologies and analyzing performance.
-- `data/`: Example fractal point clouds.
-- `figures/`: Visualizations of fractal networks.
 
 
 
