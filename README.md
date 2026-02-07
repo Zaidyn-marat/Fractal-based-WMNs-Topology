@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Zaidyn-marat/Fractal-based-WMNs-Topology/main/figures/Figure_1.png" width="1000" alt="Fractal WMN Logo">
+  <img src="https://raw.githubusercontent.com/Zaidyn-marat/Fractal-based-WMNs-Topology/main/figures/F.png" width="1000" alt="Fractal WMN Logo">
 </p>
 
 # Fractal-based Wireless Mesh Network Topology
